@@ -80,6 +80,7 @@
     <Content Include="users\templates\users\login.html" />
     <Content Include="users\templates\users\logout.html" />
     <Content Include="users\templates\users\register.html" />
+    <Content Include="users\templates\users\profile.html" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="blog\" />
